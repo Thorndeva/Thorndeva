@@ -8,4 +8,4 @@
 - 📚 来猫站就是为了更好的记录和提示自我！
 
 ## 数据汇总
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Thorndeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorndeva&show_icons=true)
