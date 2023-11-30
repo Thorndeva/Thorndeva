@@ -6,3 +6,5 @@
 - 💡 有好的建议和项目也可以戳我
 - 📫 欢迎您的合作咨询和相关bug反馈！
 - 📚 来猫站就是为了更好的记录和提示自我！
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
